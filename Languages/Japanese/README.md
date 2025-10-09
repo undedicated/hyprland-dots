@@ -13,7 +13,7 @@ Things I'll be covering:
 
 ### Hiragana
 
-| Hiragana | Romaji | Pronunciation |
+| <p align="center">Hiragana</p> | Romaji | Pronunciation |
 |-----------|---------|---------------|
 | あ | a | "ah" |
 | い | i | "ee" |
