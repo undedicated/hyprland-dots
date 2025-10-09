@@ -11,9 +11,9 @@ Things I'll be covering:
 <tr>
 <td>
 
-### Hiragana
+<h2 align="center">Hiragana</h2>
 
-| <p align="center">Hiragana</p> | Romaji | Pronunciation |
+| Original | Romaji | Pronunciation |
 |-----------|---------|---------------|
 | あ | a | "ah" |
 | い | i | "ee" |
@@ -41,7 +41,7 @@ Things I'll be covering:
 
 ### Katakana
 
-| Katakana | Romaji | Pronunciation |
+| Original | Romaji | Pronunciation |
 |-----------|---------|---------------|
 | ア | a | "ah" |
 | イ | i | "ee" |
