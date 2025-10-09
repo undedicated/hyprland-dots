@@ -39,7 +39,7 @@ Things I'll be covering:
 </td>
 <td>
 
-### Katakana
+<h2 align="center">Katakana</h2>
 
 | Original | Romaji | Pronunciation |
 |-----------|---------|---------------|
