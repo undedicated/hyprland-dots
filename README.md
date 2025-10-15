@@ -1,10 +1,8 @@
-# Purpose of My Silly Scripts
-This is just a fun little environment I use to mess around and put things I wrote that I find relatively interesting!!
+# this is an actively developed, work in progress hyprland config
 
-Things you'll find here include:
-- Scripts that're useful
-- My configuration files for anything
-- Learning guides I wrote to help me and hopefully others to learn from
-- Anything that I think is cool and I wanna upload
+below are some reasons why it probably wont work for you:
+ - this config is spaghetti coded
+ - it's tailored to my liking and system
+ - i touched it so it's dying and sucks
 
-If you find anything you like here feel free to star the repository :3
+anyway if you don't care about any of that please star fork pull request commit and everything else you can do on github thanks
